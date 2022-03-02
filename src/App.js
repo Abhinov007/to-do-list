@@ -9,7 +9,8 @@ class App extends Component {
         <div className="centre div">
           <br />
           <h1>To Do List</h1>
-          <input type="text" placeholder="Add Items" onChange={} />
+          <h2>By Abhinov007</h2>
+          <input type="text" placeholder="Add Items"/>
           <button> + </button>
 
         <ol>
